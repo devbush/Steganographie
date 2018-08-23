@@ -1,0 +1,3 @@
+Le fichier d'origine est : canard.bmp
+
+Le fichier out.bmp contient le message caché : Vive les canards!
